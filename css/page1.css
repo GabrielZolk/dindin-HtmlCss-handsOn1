@@ -1,0 +1,1653 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*  início index. html */
+  /* Cabecalho */
+header{
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#2E948A;
+    padding: 20px 103px 26px 82px;
+    font-family: "Ubuntu", sans-serif;
+}
+
+header ul{
+    display: flex;
+    list-style: none;
+    
+}
+
+header ul li{
+   
+    padding: 0 5px;
+}
+
+header a{
+    font-size: 20px;
+    text-decoration: none;
+    color:white
+}
+
+/* Part 1 */
+
+.principal1{
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    padding: 50px 250px ;
+    justify-content: space-around;
+    font-family: "Ubuntu", sans-serif;
+
+}
+
+.principal1 h1{
+    color: #FF4081;
+    width: 380px;
+    text-align: left;
+    font-size: 60px;
+    text-justify: inter-word;
+    
+}
+
+#botao a{
+    color:#FF4081;
+}
+
+.principal1 p{
+    font-size: 27px;
+    padding: 20px 0px 40px 0px;
+    width: 360px;
+}
+
+#botao{
+    border: solid 1px #FF4081;
+    color: #FF4081;
+    width: 250px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 3px;
+}
+
+
+/* Part 2 */
+
+.principal2{
+    padding: 180px 200px 0px 120px;
+    display: flex;
+    font-family: "Ubuntu", sans-serif;
+    background-color: #F7F7F7;
+}
+
+.principal2 ul{
+    display:flex;
+    justify-content: space-around;
+    list-style: none;
+    margin: 0 auto;
+}
+
+.principal2 h3{
+    color:#FF4081;
+    padding: 20px 0px 20px 0px; 
+
+}
+
+.principal2 li{
+    width: 400px;
+    text-align: center;
+    
+}
+
+.paragrafo{
+    padding: 20px;
+    width: 310px;
+    margin: 0 auto;
+}
+
+.botao-vermelho{
+    background-color: #FF4081;
+    width: 200px;
+    border-radius: 40px;
+    color:white;
+    margin: 0 auto;
+    padding: 14px 0px 14px 0px;
+    font-size: 20px;
+}
+
+/* part 3 */
+
+.principal3{
+    width: 1200px;
+    margin: 0 auto;
+    font-family: "Nunito", sans-serif;
+}
+
+.principal3 h3{
+    font-size: 37px;
+    padding: 200px 0 100px 100px;
+    color: #2E948A;
+}
+
+.principal3 ul{
+    display: flex;
+    padding: 0 0 0 60px;
+}
+
+.principal3 li{
+    padding: 10px 80px 70px 0px;
+    display: flex;
+}
+
+.principal3 p{
+    padding: 0px 0 0 20px;
+    width: 400px;
+    font-size: 18px;
+}
+
+.principal3 span{
+    font-weight: 900;
+}
+
+/* part 4 */
+
+.principal4 {
+    width: 1200px;
+    margin: 0 auto;
+    font-family: "Ubuntu", sans-serif;
+}
+
+
+.principal4 ul{
+    display:flex;
+    justify-content: space-around;
+    list-style: none;
+    margin: 0 auto;
+}
+
+.principal4 h3{
+   color: #2E948A;
+   text-align: left;
+   padding: 30px 0px 0px 0px;
+   font-size: 22px;
+}
+
+.principal4 h4{
+    color: #2E948A;
+    font-size: 37px;
+    padding: 100px 0px 50px 0px;
+   
+}
+
+.principal4 li{
+    padding: 10px 150px 0px 0px;
+    width: 400px;
+      
+}
+
+.paragrafo4 {
+    padding: 0px 10px 10px 0px;
+    width: 319px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.quadrado{
+    margin: 0 auto;
+    width: 319px;
+    height: 193px;
+    background-color:#C4C4C4;
+    
+}
+
+.ver-posts{
+    text-align: center;
+    padding: 70px 0px 100px 0px;
+}
+
+.ver-posts p{
+   
+    width: 300px;
+    font-size: 25px;
+    background-color: white;
+    margin: 0 auto;
+    font-family: "Ubuntu", sans-serif;
+    border: 2px solid #FF4081;
+    color:#FF4081;
+    padding: 10px 20px 10px 20px;
+    border-radius: 45px;
+
+}
+
+/* Page 2 */
+
+/* Part 1 */
+.pag2-part1{
+    font-family: "Ubuntu", sans-serif;
+
+
+}
+
+.pag2-title{
+    padding: 80px;
+}
+
+.pag2-title h4{
+    color: #FF4081;
+    font-size: 60px;
+}
+
+.pag2-title p{
+    font-weight: 400;
+    font-Size: 20px;
+}
+
+.content{
+    padding: 10px 0px 0px 80px;
+}
+
+.content h3{
+    color: #FF4081;
+    font-size: 35px;
+    height: 80px;
+}
+
+.paragraph1{
+    width: 640px;
+    height: 160px;
+   
+}
+
+.img1{
+    display:flex;
+    padding: 0px 0px 80px 115px;
+}
+
+
+
+
+.line{
+    border: 2px solid black;
+    opacity: 25%;
+    width: 85%;  
+    margin: 0 auto;
+}
+
+
+
+/* Part 2 */
+
+.pag2-part2{
+    font-family: "Ubuntu", sans-serif;
+}
+
+.content2{
+    padding: 10px 0px 0px 80px;
+}
+
+.content2 h3{
+    color: #FF4081;
+    font-size: 35px;
+    height: 80px;
+}
+
+.paragraph2{
+    width: 640px;
+    height: 160px;
+}
+
+.img2{
+    display:flex;
+    padding: 130px 0px 80px 115px;
+}
+
+/* Part 3 */
+
+.pag2-part3{
+    font-family: "Ubuntu", sans-serif;
+}
+
+
+.content3{
+    padding: 10px 0px 0px 80px;
+}
+
+.content3 h3{
+    color: #FF4081;
+    font-size: 35px;
+    height: 80px;
+}
+
+.paragraph3{
+    width: 640px;
+    height: 160px;
+}
+
+.grn-btn{
+    width: 200px;
+    background-color:#2E948A;
+    border-radius: 40px;
+    color:white;
+    text-align: center;
+    padding: 14px 0px 14px 0px;
+    font-size: 20px;
+}
+
+.img3{
+    display:flex;
+    padding: 130px 0px 190px 115px;
+}
+
+
+
+/* Page 3 */
+
+.principal-investimentos{
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    padding: 50px 250px;
+    justify-content: space-around;
+    font-family: "Ubuntu", sans-serif;
+
+}
+
+.principal-investimentos h1{
+    padding: 80px 0px 0px 0px;
+    color: #FF4081;
+    width: 512px;
+    text-align: left;
+    font-size: 60px;
+    text-justify: inter-word; 
+}
+
+.principal-investimentos p{
+    font-size: 20px;
+    padding: 20px 0px 40px 0px;
+    width: 461px;
+}
+
+.principal-investimentos img{
+    padding: 60px 0px 0px 110px;
+}
+
+/* Part 2, 3, 4 */
+
+.aulas{  
+    width: 1200px;
+    margin: 0 auto;
+    background-color:#F7F7F7;
+    display: flex;
+    padding: 100px 0px 150px 0;
+    
+}
+
+.play{
+   border: solid 3px rgba(142, 142, 142, 1);
+   width: 462px;
+   height: 261px;
+   margin: 15px auto;
+   
+}
+
+.bol{
+    border: solid 3px rgba(142, 142, 142, 1);
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 80px auto;
+}
+
+.triang{
+    border: 30px solid transparent;
+    border-right: 0;
+    border-left: 40px solid rgba(142, 142, 142, 1   );
+    margin: 12px 27px auto;
+   
+    
+}
+
+
+.aulas-texto h3{
+    color:#FF4081;
+    width: 480px;
+    text-align: left;
+    font-size: 60px;
+
+
+}
+
+.aulas-texto p{
+    font-size: 20px;
+    padding: 20px 0px 0px 0px;
+    width: 421px;
+}
+
+/* Page 4 */
+
+section{
+    font-family: "Ubuntu", sans-serif;
+}
+
+.panel{
+    padding: 0 300px 200px 150px;
+    
+    
+}
+
+.panel h3{
+    color: #FF4081;
+    font-size: 60px;
+    padding: 120px 0px 40px 0px;
+}
+
+.name{
+    margin-bottom: 15px;
+    border-radius: 5px;
+    width: 364px;
+    height: 30px;
+
+}
+
+.mail{
+    margin-bottom: 15px;
+    width: 364px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.panel textarea{
+    border-radius: 5px;
+}
+
+.contato{
+    display: flex;
+    
+}
+  
+.contato input, textarea{
+    border: 1px solid #686868;
+    stroke: none;
+   padding: 10px 10px 10px 10px;
+}
+  
+#button{
+    padding: 5px;
+    background-color:#FF4081;
+    color: white;
+    width: 108px;
+    height: 32px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.contato-img{
+    padding: 100px 0 0 0;
+}
+
+/* Page 5 */
+
+.principal-blog{
+    margin: 0 auto;
+    display: flex;
+    padding: 50px 250px;
+    justify-content: space-around;
+    font-family: "Ubuntu", sans-serif;
+    width: 1450px;
+
+}
+
+.principal-blog h1{
+    padding: 80px 0px 30px 0px;
+    color: #2E948A;
+    width: 512px;
+    text-align: left;
+    font-size: 60px;
+    text-justify: inter-word; 
+}
+
+.principal-blog p{
+    font-size: 20px;
+    padding: 20px 0px 40px 0px;
+    width: 431px;
+}
+
+.principal-blog img{
+    padding: 30px 0px 0px 110px;
+}
+
+.section-blog{
+    display: flex;
+    justify-content: space-around;
+    padding: 140px 100px 0px 100px;
+    width: 1450px;
+    margin: 0 auto;
+    
+
+}
+
+.section-blog ul{
+    list-style: none;
+}
+
+.quadrado-blog{
+    margin: 0 auto;
+    width: 518px;
+    height: 259px;
+    background-color:#C4C4C4;
+   
+}
+
+.section-blog h3{
+    color: #FF4081;
+    text-align: left;
+    padding: 20px 0px 20px 0px;
+    font-size: 30px;
+ }
+
+ .paragrafo-blog{
+    padding: 0px 10px 110px 0px;
+    width: 516px;
+    text-align: left;
+    color: black;
+ }
+
+.section-blog a{
+    color: black;
+}
+
+/* Page 6 */
+
+
+.head-post h1{
+    color:#FF4081;
+    padding: 80px 0 0 0px;
+    text-align: center;
+    padding: 80px 0 0 0;
+    font-size: 50px;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.head-post h6{
+    text-align: center;
+    color: rgba(157, 157, 157, 1);
+    padding: 0 0 60px 0;
+    font-size: 18px;
+    font-family: "Ubuntu", sans-serif;
+    
+}
+
+.quadrado-post{
+    background-color: #C4C4C4;
+    width: 1032px;
+    height: 465px;
+    margin: 0 auto;
+}
+
+.text-post{
+    margin: 0 auto;
+    width: 1032px;
+    padding: 50px 0 0 0;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.text-post h2, h3{
+    color:#2E948A;
+    font-size: 26px;
+    font-family: "Ubuntu", sans-serif;
+}
+
+#post-title{
+    color:#FF4081;
+    text-align: center;
+    padding: 300px 0 0 0;
+    font-size: 50px;
+}
+
+.divxd{
+    padding: 0 0 100px 0;
+}
+
+#ajust{
+    margin: 0 auto;
+    width: 1200px;
+}
+/* footer */
+
+
+footer{
+    background-color: #2E948A;
+    display:flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 20px 103px 26px  82px;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 20px;
+    
+}
+
+ .menu2, a,.botoes{
+    list-style:none;
+    text-decoration: none;
+    color: white;
+
+ }   
+
+.botoes li{
+    border: 1px solid white;
+    border-radius: 28px;
+    width: 250px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+}
+
+
+
+
+@media screen and (min-width: 300px) and (max-width: 667px) {
+    
+    /* Index.html */
+      header{
+         
+         width:420px;
+         padding: 10px 40px 10px 10px;
+         flex-direction: column;
+        
+      }
+  
+     
+      header ul {
+         margin-left: 15px;
+        justify-content: space-around;
+              
+          
+      }
+  
+    
+  
+      .principal1, .principal2, .principal3, .principal4{
+  
+          width: 420px;
+          display: block;
+          padding: 20px 0px 20px 0px;     
+      }
+      
+     .principal1 h1, .principal3 h3{
+      
+      
+      text-align: center;
+      width: 375px;
+      font-size: 25px;
+      padding: 10px 0px 0px 10px;
+     }
+     
+     .principal1 p{
+      text-align: center;
+      font-size: 16px;
+      padding: 10px 0px 20px 32px;
+     }
+     
+     #botao{
+       margin-left:65px;
+  
+     }
+   
+        
+  
+     
+  
+     .principal1 img{
+      width: 150px;
+      padding: 30px 0px 0px 0px;
+      margin-left: 120px;
+     }
+    
+  
+     .principal2 li{
+       padding:0px 25px 0px 10px;
+     }
+     .principal2 ul{
+      display: block;
+      font-size: 13px;
+     
+      
+     }
+     
+     .principal4 h3{
+        padding: 0px 0px 0px 45px;
+     }
+
+     .paragrafo{
+      width: 350px;
+      margin: 0 auto;
+      
+     }
+  
+     .botao-vermelho{
+      font-size: 14px;
+      padding: 10px 0px 10px 0px;
+  
+     }
+  
+    .principal2 img{
+      display: none;
+    }
+    
+     .principal2 h3{
+      font-size: 20px;
+     }
+   
+     
+     .principal3 ul{
+      padding: 0px;
+      display: block;
+      overflow-x: hidden;
+     }
+     .principal3 p{
+      width: 250px;
+      font-size: 13px;
+      padding: 0px;
+      overflow-y: hidden;
+     
+     }
+     
+     .principal3 li{
+      
+      padding: 10px 0px 30px 25px;
+      width: 375px;
+     }
+  
+     .principal3 img{
+      width: 80px;
+      height: 80px;
+      padding: 10px 10px 10px 10px;
+     }
+     
+    .paragrafo4{
+        padding: 0px 0px 30px 45px;
+    }
+
+    .principal4 h4{
+    
+      padding: 30px 90px 0px 60px;
+      text-align: center; 
+      font-size: 30px;
+    
+  
+     }
+  
+  
+  .conteudo{
+    
+      width: 420px;
+     
+  }
+  
+  .quadrado{
+  
+      width: 300px;
+      margin-left: 45px; 
+  }
+  .principal4 ul{
+      display: block;
+      
+      
+  }
+  .ver-posts{
+      width: 420px;
+      padding: 0px 40px 50px 5px;
+
+      
+  }
+  
+  .ver-posts a{
+  margin-right: 45px;
+  font-size: 20px;
+  padding: 0px 30px 0px 30px;
+  }
+  
+  footer{
+  width: 420px;
+  padding: 0 10px 0 35px;
+  flex-direction: column;
+  padding-bottom: 30px;
+  }
+  
+  footer img{
+  padding: 10px 0px 0px 0px;
+  width: 150px;
+  margin-right: 60px;
+  }
+  
+  .menu2{
+      display: flex;
+      column-gap: 10px;
+      font-size: 14px;
+      padding: 10px 50px 0px 0px;
+  
+  }
+  
+   .botoes li{
+     width: 150px;
+     padding: 0px  ;
+     font-size: 14px;
+     margin-right: 50px;
+     
+         
+  
+  } 
+  /* Fim index.html */
+  
+  /* Inicio cursos.html */
+  
+  .ajust,.img1,.img2,.img3{
+      max-width: 420px;
+      display: block;
+      padding: 20px 0px 30px 0px; 
+     
+  }
+  
+  .grn-btn{
+    padding: 3px 4px;
+    margin-left: 30px;
+    margin-left: 10px;
+  }
+
+
+  
+  .img1 img,.img2 img,.img3 img{
+  
+  max-width: 200px;
+  height: 200px;
+  margin-left: 100px;
+  
+  }
+
+  .pag2-title h4{
+  margin-left: 20px;
+    
+         
+  }
+  
+  .pag2-title p{
+    width: 200px;
+    text-align:center;
+    margin-left: 10px;
+  }
+
+  .img1 h3{
+    padding: 0px 50px 0 0;
+  }
+   
+
+  .paragraph1{
+    padding: 0px 100px 0 0px;
+    text-align: center;
+      max-width:350px;
+      font-size: 13px;
+  }
+  
+ .paragraph2{
+        padding: 0px 100px 0 0px;
+        text-align: center;
+          max-width:350px;
+          font-size: 13px;
+      }
+
+
+      .paragraph3{
+        text-align: justify;
+        padding: 0px 100px 0 0px;
+        text-align: center;
+          max-width:350px;
+          font-size: 13px;
+      }
+  
+  .line{
+    width: 100%;
+  }
+
+  
+  /* fim cursos.html */
+  
+  /* inicio curso.html */
+  
+  .principal-investimentos{
+    padding: 0px;
+      display: block;
+      width:667px;
+  
+  }
+  .principal-investimentos h1{
+      font-size: 30px;
+      padding: 0px;
+      margin-left: 90px;
+  }
+  
+  .principal-investimentos p{
+  font-size: 14px;
+  width: 300px;
+  margin-left: 45px;
+  text-align:justify ;
+  
+  }
+  
+  .principal-investimentos img{
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  margin-left: 80px;
+  
+  
+  }
+
+  .play{
+    margin-left: 0px;
+    padding: 0px;
+    max-width: 390px;
+    max-height: 380px;
+  }
+
+.aulas-texto h3{
+    margin-left: 110px;
+}
+  
+.aulas-texto p {
+    width: 380px;
+    text-align: center;
+}
+
+  .aulas{
+    padding: 0px;
+    display: block;
+  }
+
+  .aula1,.aula2,.aula3{
+      display: block;
+      padding: 0px;
+      width: 400px;
+  }
+  
+  
+  .aula1  p , .aula2 p, .aula3 p{
+      padding: 30px 0px;
+      width: 350px;
+      font-size: 14px;
+      margin-left: 10px;
+  }
+  
+  .titulo_aula{
+      padding: 0px;
+      text-align: center;
+  }
+  
+  /* Fim curso.html */
+  
+  /* Inicio blog.html */
+  
+  .principal-blog{
+      padding: 0px;
+      width: 600px;
+      display: block;
+  
+  }
+  
+  .principal-blog h1{
+      font-size: 30px;
+      padding: 30px 100px 0px 0px;
+      text-align:center;
+  }
+  
+  .principal-blog img{
+      padding: 0px;
+      width: 200px;
+     margin-left: 100px;
+  }
+  
+  .principal-blog p{
+      font-size: 14px;
+      width: 360px;
+      text-align: center;
+      padding: 20px 0px 0 25px;
+  }
+  
+  .section-blog{
+      display: block;
+      width: 400px;
+      padding: 10px 0px 0px 10px;
+  }
+  
+  .quadrado-blog{
+      padding: 0px;
+      width: 350px;
+      height: 200px;
+      margin-left: 2px;
+      
+  }
+  .section-blog h3{
+      font-size: 20px;
+      margin-left: 25px;
+  }
+  .paragrafo-blog{
+      padding: 30px 0px;
+      width: 350px;
+      text-align: center;
+  
+  }
+  
+  /* fim blog.html */
+  
+  /* Inicio post.html */
+  
+  .head-post h1{
+      font-size: 20px;
+      padding: 60px 0px 0px 0px;
+  }
+  
+  .quadrado-post{
+      padding: 0px 10px;
+      width: 350px;
+      height: 200px;
+      padding: 0px;
+  }
+  .text-post{
+      width: 350px;
+      font-size: 14px;
+      padding: 30px 0px 70px 0px;
+  }
+  
+  .text-post h2,h3{
+      font-size: 20px;
+      padding: 0px;
+  }
+  #post-titulo{
+      font-size: 25px;
+      padding: 10px 0px;
+  }
+  /* fim post.html */
+  /* inicio contato.html */
+  
+  .contato{
+    display: block;
+  }
+  .panel{
+      width: 600px;
+      padding: 0px 0 0 12px;
+  }
+  
+  .panel h3{
+      margin-left: 150px;
+      padding: 0px;
+      font-size: 20px;
+  }
+  .name{    
+      width: 350px;
+      margin-left: 10px;
+  }
+
+  .mail{
+    
+    width: 350px;
+    margin-left: 10px;
+  }
+  
+  #button{
+    margin-left: 130px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 5px;
+  }
+
+  .contato-img{
+    margin-top: 0px;
+    margin-right:150px;
+    padding: 0px;
+    max-width: 400px;
+    /* Fim contato.html */
+  }
+}
+
+
+  /* TABLET */
+
+  @media screen and (min-width:768px) and (max-width: 1024px) {
+
+
+    /* Index.html */
+    *{
+      overflow-x: hidden;
+     }
+   
+      header{
+         
+         width:1024px;
+         padding: 10px 240px 0px 30px;
+         
+        
+      }
+  
+     
+      header ul {
+         margin-left: 15px;
+         display:flex;
+         justify-content: space-around;
+              
+          
+      }
+  
+      header a{
+          text-decoration: none;
+      }
+      .principal1{
+         width: 1024px;
+         padding: 20px 0px 0px 0px;
+         
+          
+      }
+  
+     
+  
+      .principal2, .principal3, .principal4{
+  
+          width: 1024px;
+          display: block;
+          padding: 20px 0px 0px 0px;     
+      }
+      
+     .principal3 h3{
+      
+      
+      text-align: center;
+      width: 1024px;
+      font-size: 25px;
+      padding: 10px 250px 0px 10px;
+     }
+     
+     .principal1 p{
+      font-size: 20px;
+      text-align: center;
+      padding: 10px 0px 10px 0px;
+  }
+     
+     #botao{
+      
+       margin-bottom: 30px;
+      margin-left: 30px;
+     }
+   
+        
+  
+     
+  
+     .principal1 img{
+      width: 300px;
+      margin-right: 190px;
+     
+     }
+    
+     .principal2{
+      padding-bottom: 20px;
+      
+     
+  
+  
+     }
+  
+    .principal2 li{
+      width: 200px;
+    }
+  
+     .principal2 ul{
+      width:700px;
+      display: flex;
+      font-size: 13px;
+      margin-left: 70px;
+            
+      
+     }
+     
+     .paragrafo{
+      width: 200px;
+      margin: 0 auto;
+     }
+  
+     .botao-vermelho{
+      font-size: 14px;
+      
+  
+     }
+  
+    .principal2 img{
+      display: none;
+    }
+    
+     .principal2 h3{
+      font-size: 20px;
+     }
+   
+     
+     .principal3 ul{
+      padding: 20px 50px 0px 50px;
+      display:flex;
+      overflow-x: hidden;
+     }
+     .principal3 p{
+      width: 250px;
+      font-size: 13px;
+      padding: 0px;
+      overflow-y: hidden;
+     
+     }
+     
+     .principal3 li{
+      
+      padding: 10px 0px 30px 0px;
+      width: 375px;
+     }
+  
+     .principal3 img{
+      width: 80px;
+      height: 80px;
+      padding: 10px 10px 10px 10px;
+     }
+     
+    .conteudo h4{
+    
+      padding: 30px 90px 0px 60px;
+      text-align: center; 
+      font-size: 30px;
+    
+  
+     }
+  
+  
+  .conteudo{
+    
+      width:1024px;
+  }
+  
+  .conteudo h4{
+     padding: 20px 190px 0px 0px ;
+  
+  }
+  
+  .principal4 ul{
+      max-width:850px;
+      padding: 0px 170px 0px 0px;
+  }
+  
+  .principal4 li {
+      
+      width: 200px;
+  
+  }
+  
+  .paragrafo4 {
+      
+     width: 200px;
+     text-align: left;
+     padding: 10px 0px;
+  }
+  
+  
+  .principal4 h3{
+     
+      width: 200px;
+      font-size: 20px;
+      padding: 10px 0px;
+  
+  }
+  .quadrado {
+      
+      width:200px;
+      height:100px;
+      background-color: #C4C4C4;
+      
+  
+  }
+  
+  
+  
+  
+  
+  
+  .ver-posts{
+      width: 1024px;
+      padding: 30px;
+      
+  }
+  
+  .ver-posts a{
+  margin-right: 180px;
+  font-size: 20px;
+  padding: 0px 30px 0px 30px;
+  
+  }
+  
+  footer{
+  width: 1024px;
+  padding:10px 170px 0px 10px ;
+  padding-bottom: 40px;
+  }
+  
+  footer img{
+  padding: 10px 0px 0px 0px;
+  width: 150px;
+  margin-right: 60px;
+  }
+  
+  .menu2{
+      display: flex;
+      column-gap: 10px;
+      font-size: 14px;
+      padding: 10px 50px 0px 0px;
+  
+  }
+  
+   .botoes li{
+     width: 150px;
+     padding: 0px  ;
+     font-size: 14px;
+     margin-right: 50px;
+     
+         
+  
+  } 
+  /* Fim index.html */
+  
+  /* Inicio cursos.html */
+  
+  .pag2-title{
+    padding: 30px; 
+  }
+  
+  
+  .ajust,.img1,.img2,.img3{
+    max-width: 420px;
+    display: block;
+    padding: 20px 0px 30px 0px; 
+   
+}
+  
+
+  .grn-btn{
+    padding: 3px 4px;
+    margin-left: 30px;
+    margin-left: 10px;
+  }
+
+ .img1 img,.img2 img,.img3 img{
+  
+  max-width: 250px;
+  height: 250px;
+  margin-left: 30px;
+  
+  }
+
+  .img1{
+    margin-left: 180px;
+
+  }
+
+  .pag2-title h4 {
+      margin-left: 100px;
+      font-size: 40px;   
+      padding: 0px 200px; 
+    
+      
+  }
+  
+  .pag2-title p{
+      padding: 0px 210px; 
+  }
+  
+  
+  .paragraph1{
+    padding: 0px 100px 0 0px;
+    text-align: center;
+      max-width:350px;
+      font-size: 13px;
+  }
+  
+ .paragraph2{
+        padding: 0px 100px 0 0px;
+        text-align: center;
+          max-width:350px;
+          font-size: 13px;
+      }
+
+
+      .paragraph3{
+        text-align: justify;
+        padding: 0px 100px 0 0px;
+        text-align: center;
+          max-width:350px;
+          font-size: 13px;
+      }
+  
+  .line{
+    width: 100%;
+  }
+  
+      
+  
+   
+  
+  
+  
+  /* fim cursos.html */
+  
+  /* inicio curso.html */
+  
+  .principal-investimentos{
+     
+      width:1024px;
+      padding: 40px 0px 0px 110px;
+  
+  }
+  .principal-investimentos h1{
+      font-size: 30px;
+      padding: 10px 0px;
+      margin-left: 40px;
+  }
+  
+  .principal-investimentos p{
+  font-size: 14px;
+  width: 300px;
+  text-align:justify ;
+  
+  }
+  
+  .principal-investimentos img{
+  width: 300px;
+  margin-right: 750px;
+  
+  
+  }
+  
+  .play{
+    margin-left: 0px;
+    padding: 0px;
+    max-width: 390px;
+    max-height: 380px;
+  }
+
+.aulas-texto h3{
+    margin-left: 110px;
+}
+  
+.aulas-texto p {
+    width: 380px;
+    text-align: center;
+}
+
+  .aulas{
+    padding: 0px;
+    margin-left: 190px;
+    display: block;
+  }
+
+  .aula1,.aula2,.aula3{
+      display: block;
+      padding: 0px;
+      width: 1024px;
+  }
+  
+  .cursos{
+      width: 1024px;
+      padding: 40px 0px;
+  
+       
+  }
+   
+  
+  .aula1  p , .aula2 p, .aula3 p{
+      padding: 10px 0px 50px 0px ;
+      width: 700px;
+      font-size: 16px;
+      margin-left: 70px;
+      text-align: justify;
+  }
+  
+  .titulo_aula{
+      padding: 10px 350px;
+      
+  }
+  
+  /* Fim curso.html */
+  
+  /* Inicio blog.html */
+  
+  .principal-blog{
+      padding: 40px 180px 20px 0px ;
+      width: 1024px;
+      
+  
+  }
+  
+  .principal-blog h1{
+      font-size: 30px;
+      padding: 30px 0px 0px 0px;
+     
+     
+  }
+  
+  .principal-blog img{
+      padding: 0px;
+      width: 200px;
+  }
+  
+  .principal-blog p{
+      font-size: 14px;
+      width: 360px;
+     
+      padding: 20px 0px;
+     
+  }
+  
+  .section-blog{
+      display: block;
+      width: 1024px;
+      padding: 30px 0px 0px 0px;
+  }
+  
+  .quadrado-blog{
+      padding: 0px;
+      width:700px;
+      height: 200px;
+      margin-left: 70px;
+      
+  }
+  .section-blog h3{
+      font-size: 20px;
+      margin-left: 250px;
+     
+  }
+  .paragrafo-blog{
+      padding: 30px 0px;
+      width: 650px;
+      text-align: justify;
+      margin-left:100px;
+  }
+  
+  /* fim blog.html */
+  
+  /* Inicio post.html */
+  
+  .head-post h1{
+      font-size: 30px;
+      padding: 60px 0px 0px 0px;
+  }
+  
+  .quadrado-post{
+      padding: 0px 10px;
+      width: 700px;
+      height: 400px;
+      padding: 0px;
+  }
+  .text-post{
+      width: 700px;
+      font-size: 16px;
+      padding: 30px 0px 70px 0px;
+  }
+  
+  .text-post h2,h3{
+      font-size: 30px;
+      padding: 0px;
+  }
+  #post-titulo{
+      font-size: 25px;
+      padding: 20px 0px;
+  }
+  
+  
+  /* fim post.html */
+  /* inicio contato.html */
+  
+  .contato{
+    display: block;
+    margin-left: 185px;
+  }
+  .panel{
+      width: 600px;
+      padding: 0px 0 0 12px;
+  }
+  
+  .panel h3{
+      margin-left: 150px;
+      padding: 0px;
+      font-size: 20px;
+  }
+  .name{    
+      width: 350px;
+      margin-left: 10px;
+  }
+
+  .mail{
+    
+    width: 350px;
+    margin-left: 10px;
+  }
+  
+  #button{
+    margin-left: 130px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 5px;
+  }
+
+  .contato-img{
+    margin-top: 0px;
+    margin-right:150px;
+    padding: 0px;
+    max-width: 400px;
+    /* Fim contato.html */
+  }
+}
