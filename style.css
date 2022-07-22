@@ -1296,6 +1296,13 @@ footer{
      padding: 10px 0px;
   }
   
+  .principal4 h4{
+     
+    
+    
+    padding: 10px 0px 0 60px;
+
+}
   
   .principal4 h3{
      
@@ -1314,13 +1321,17 @@ footer{
   }
   
   
-  
+  .principal4{
+    padding: 0 80px 0 0px;
+}
+
   
   
   
   .ver-posts{
-      width: 1024px;
+      
       padding: 30px;
+      
       
   }
   
@@ -1370,31 +1381,31 @@ footer{
   
   
   .ajust,.img1,.img2,.img3{
-    max-width: 420px;
-    display: block;
+    max-width: 720px;
+    
     padding: 20px 0px 30px 0px; 
    
 }
-  
+ 
+.content p{
+    padding: 20px 0px 20px 20px;
+}
 
   .grn-btn{
     padding: 3px 4px;
     margin-left: 30px;
-    margin-left: 10px;
+   
   }
 
  .img1 img,.img2 img,.img3 img{
   
   max-width: 250px;
   height: 250px;
-  margin-left: 30px;
+  margin-left: 70px;
   
   }
 
-  .img1{
-    margin-left: 180px;
 
-  }
 
   .pag2-title h4 {
       margin-left: 100px;
