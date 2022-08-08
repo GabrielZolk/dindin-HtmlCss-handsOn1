@@ -11,3 +11,4 @@ let siteStatus = "online"
 console.log(siteStatus)
 ```
 
+:wink:
